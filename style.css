@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image{
+    height: auto;
+    width: 480px;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size:16px;
+}
